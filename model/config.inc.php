@@ -7,7 +7,7 @@
 
     $bdd= new PDO("mysql:host=".$host.";dbname=".$dbname, $username, $password);
 
-
+    
 
 
 
